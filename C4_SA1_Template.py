@@ -72,7 +72,7 @@ while carryOn:
     #if brick.collidepoint(ball.x,ball.y):
         #pygame.draw.rect(screen,DARKBLUE,brick)
     
-    pygame.time.wait(10)
+    pygame.time.wait(8)
     # Update the contents of entire display
     pygame.display.flip()
 # Quit the game  
