@@ -13,6 +13,10 @@ RED = (255,0,0)
 # (255,150,0) represents orange color.
 
 
+# Create a variable "YELLOW" and assign RGB color combination of yellow color to it.
+# (255,255,0) represents yellow color.
+
+
 # Create a paddle and a ball rectangle objects
 paddle = pygame.Rect(300,500,60,10)
 ball = pygame.Rect(200,250,10,10)
