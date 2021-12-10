@@ -71,7 +71,7 @@ while carryOn:
     
     
     
-    # Check if brick and ball coliided using "collidepoint()" function. 
+    # Check if brick and ball collided using "collidepoint()" function. 
     # If so change the color of brick to DARKBLUE
     #if brick.collidepoint(ball.x,ball.y):
         #pygame.draw.rect(screen,DARKBLUE,brick)
