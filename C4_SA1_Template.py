@@ -71,10 +71,10 @@ while carryOn:
     
     
     
-    # Check if brick and ball collided using "collidepoint()" function. 
-    # If so change the color of brick to DARKBLUE
-    #if brick.collidepoint(ball.x,ball.y):
-        #pygame.draw.rect(screen,DARKBLUE,brick)
+        # Check if brick and ball collided using "collidepoint()" function. 
+        # If so change the color of brick to DARKBLUE
+        #if brick.collidepoint(ball.x,ball.y):
+            #pygame.draw.rect(screen,DARKBLUE,brick)
 
     # Create and draw 6 yellow bricks on screen. Follow these steps.
     # 1. Initiate a for loop. Set the range function values to 0 and 6
